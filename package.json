@@ -1,0 +1,14 @@
+{
+  "name": "create-content-with-js",
+  "version": "1.0.0",
+  "description": "workspace for the create content with js course",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  }
+}
